@@ -1,2 +1,3 @@
 # Webcam-Fun
-Created using Webcam Fun (JavaScript30)
+
+- A Javascript project that uses your webcam to take and alter pictures.
